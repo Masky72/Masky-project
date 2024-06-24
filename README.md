@@ -4,3 +4,4 @@
 
 Para ejecutar el sistema, debes poner:
 ```npm instal react ```
+pollo vegano
